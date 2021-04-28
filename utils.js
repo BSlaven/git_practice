@@ -1,0 +1,1 @@
+console.log('Slavneov drugi fajl');
